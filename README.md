@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dave Jacobson and I'm currently an ORISE fellow in the Parasitic Diseases Branch at CDC, primarily working on pipelines to genotype _Cyclospora cayetanensis_
+- 👋 Hi, I’m Dave Jacobson - I have 7 years of experience extracting meaningful insights from complex next-genreation sequencing data. I'm intersted in translating my expertise in python, R, open-source tools, statstical analysis, and scientific communcation to uncover trends and patterns in big data.
 
 
 <!---
